@@ -11,7 +11,6 @@
 /* Answer = true */
 /* Answer = 1 */
 
-
 int main()
 {
   printf("Answer: %d \n", ~1 && 2);  /* Logical AND-operation */
