@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+  unsigned long int a = 2;
+  unsigned long int *b = &a;
+  unsigned long int *c = b;
+  *b = 0;
+  printf("%lu %lu \n", a, *c);
+}

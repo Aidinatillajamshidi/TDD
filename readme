@@ -1,0 +1,11 @@
+TDDI11
+Embedded software
+Linköpings universitet
+2023
+
+Kursinnehåll:
+
+-Programmering av inbyggda system: Preprocessorn, assembler och länkning, grundläggande kompileringstekniker, kodoptimering, bit-manipulation, programering av in/ut-data, avbrott och undantag, minneshantering.
+-Inbyggda system: Egenskaper hos tillämpningar av inbyggda system, designprocessen för inbyggda system.
+-Plattformar för inbyggda system: Arkitekturer, bussprotokoll, minnesenheter, in/ut-eneheter, tidsmätning och räknare, kommunikation och hantering av komponenter.
+-Applikationsdesign: System-modeller, tillståndsmaskiner, tids-styrda applikationer, processer och kommunikation.

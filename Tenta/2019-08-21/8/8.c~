@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+  x = 8;
+  int multiple = !(x & 0x07);
+
+  return printf("%d \n", multiple);
+}

@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+union Data
+{
+  int i;
+  int arr[2];
+} data;
+
+int main()
+{
+  data.i = 2;
+
+  printf("Answer: %d \n", sizeof(data));
+  
+  return 0;
+}

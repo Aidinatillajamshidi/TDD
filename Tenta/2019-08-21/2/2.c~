@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+unsigned convert(unsigned num) {
+    unsigned result = 0;
+    result |= (num & 0xFF) << 24;  // Extract and shift the least significant byte
+    result |= (num & 0xFF00) << 8;  // Extract and shift the second least significant byte
+    result |= (num & 0xFF0000) >> 8;  // Extract and shift the second most significant byte
+    result |= (num & 0xFF000000) >> 24;  // Extract and shift the most significant byte
+    return result;
+}
+
+
+int main()
+{
+
+  return 0;
+}
