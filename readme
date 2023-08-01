@@ -3,9 +3,9 @@ Embedded software
 Linköpings universitet
 2023
 
-Kursinnehåll:
+Course content:
 
--Programmering av inbyggda system: Preprocessorn, assembler och länkning, grundläggande kompileringstekniker, kodoptimering, bit-manipulation, programering av in/ut-data, avbrott och undantag, minneshantering.
--Inbyggda system: Egenskaper hos tillämpningar av inbyggda system, designprocessen för inbyggda system.
--Plattformar för inbyggda system: Arkitekturer, bussprotokoll, minnesenheter, in/ut-eneheter, tidsmätning och räknare, kommunikation och hantering av komponenter.
--Applikationsdesign: System-modeller, tillståndsmaskiner, tids-styrda applikationer, processer och kommunikation.
+- Embedded Programming: Preprocessing. Assembly and Linking. Basic Compilation Techniques. Coding issues and optimization. Programming Input and Output. Bit-manipulation. Interrupts, Exceptions, and Traps. Memory layout.
+- Embedded Computing: Characteristics of Embedded Computing Applications. The Embedded Systems Design Process.
+- The Embedded Computing Platform: Architectures. Bus Protocols. Memory Devices. I/O Devices. Timers and Counters. Component interfacing.
+- Embedded Application Design: Basic system models. State-machines. Time-ordered applications. Concurrent tasks and communication. Scheduling.
